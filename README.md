@@ -93,7 +93,6 @@ Se você está procurando um desenvolvedor que possa agregar **habilidades técn
     <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,ae,notion,discord&theme=dark" />
   </p>
 </div>
----
 
 ## 🌐 Entre em Contato
 
@@ -106,7 +105,6 @@ Se você está procurando um desenvolvedor que possa agregar **habilidades técn
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamilomallmann@hotmail.com)
 
 </div>
-
 
 ## 💡 Por que trabalhar comigo?
 
