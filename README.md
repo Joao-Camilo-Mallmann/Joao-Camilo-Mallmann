@@ -46,27 +46,53 @@ Se você está procurando um desenvolvedor que possa agregar **habilidades técn
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
-
-### 🎨 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,bootstrap,wordpress&theme=dark" />
-</p>
-
-### ⚙️ Back-end & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=java,php,mysql&theme=dark" />
-</p>
-
-### 🧰 Ferramentas & Outras
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,c,figma,git,linux,photoshop,vscode&theme=dark" />
-</p>
-
+  <h2>🛠️ Tech Stack</h2>
 </div>
 
+### 🎨 Front-end
+<div align="center">
+  <p>
+    <strong>Linguagens & Core:</strong><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+  </p>
+  <p>
+    <strong>Frameworks & Ecossistema:</strong><br>
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,vite&theme=dark" />
+  </p>
+  <p>
+    <strong>Estilização & UI:</strong><br>
+    <img src="https://skillicons.dev/icons?i=vuetify,bootstrap,tailwind&theme=dark" />
+  </p>
+    <p>
+    <strong>Ambiente & CMS:</strong><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,wordpress&theme=dark" />
+  </p>
+</div>
+
+### ⚙️ Back-end & Databases
+<div align="center">
+  <p>
+    <strong>Linguagens:</strong><br>
+    <img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+  </p>
+  <p>
+    <strong>Bancos de Dados:</strong><br>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  </p>
+</div>
+
+### 🧰 Ferramentas & Outras
+<div align="center">
+  <p>
+    <strong>Desenvolvimento, Versionamento & Hardware:</strong><br>
+    <img src="https://skillicons.dev/icons?i=c,arduino,git,github,gitlab,linux,vscode&theme=dark" />
+  </p>
+  <p>
+    <strong>Design, Edição & Colaboração:</strong><br>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,ae,notion,discord&theme=dark" />
+  </p>
+</div>
 ---
 
 ## 🌐 Entre em Contato
