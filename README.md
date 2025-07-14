@@ -107,7 +107,6 @@ Se você está procurando um desenvolvedor que possa agregar **habilidades técn
 
 </div>
 
----
 
 ## 💡 Por que trabalhar comigo?
 
