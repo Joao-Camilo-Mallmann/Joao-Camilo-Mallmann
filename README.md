@@ -1,136 +1,73 @@
-<!-- Header com banner anima- 💻 Especialista em **desenvolvimento Front-End**
-- 🎨 Focado | 🔍 **Mente Curiosa** | ⚡ **Produtividade** | 💡 **Soluções Criativas** |
-|:---:|:---:|:---:|
-| Sempre buscando melhorias | Entrega com qualidade | Pensamento fora da caixa |**experiência do usuário (UX/UI)**
-- 🚀 Domínio em **Vue.js, Nuxt.js e TypeScript**
-- 🌐 Experiência com **WordPress e Bootstrap**
-- 💡 **Mente curiosa** e sempre em busca de **inovação**
-- 🤝 **Comunicativo** e colaborativo em equipe
-- ⚡ Compromisso com **produtividade** e **soluções criativas**
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Olá%20👋,%20sou%20J.C&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Vue.js%20|%20TypeScript%20|%20UX/UI&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Olá%20👋,%20sou%20J.C&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End%20|%20Vue.js%20|%20TypeScript%20|%20UX/UI&descAlignY=55&descAlign=50" alt="Banner de apresentação de João Camilo Mallmann, Desenvolvedor Front-End"/>
 </div>
 
-<!-- Badge typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Front-End;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Focado+na+Experiência+do+Usuário;📱+Vamos+nos+conectar+no+LinkedIn!"/>
-</div>
+# João Camilo Mallmann
+## Desenvolvedor Front-End | Vue.js | TypeScript | UX/UI
 
-<!-- Call to Action para LinkedIn -->
 <div align="center">
-  <h2>🤝 Vamos nos conectar?</h2>
-  <p><strong>Encontre-me no LinkedIn para conversarmos sobre oportunidades!</strong></p>
-  
-  <a href="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" target="_blank">
-    <img src="https://img.shields.io/badge/CONECTAR%20NO%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Front-End;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Focado+na+Experiência+do+Usuário;📱+Vamos+nos+conectar+no+LinkedIn!" alt="Animação de texto com habilidades: Desenvolvedor Front-End, Vue.js, Nuxt.js, TypeScript"/>
 </div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor **Front-End** apaixonado por tecnologia, com domínio em **HTML, CSS, Bootstrap, WordPress, JavaScript, Vue, Nuxt e TypeScript**. 
+Sou um desenvolvedor **Front-End** apaixonado por tecnologia, baseado no **Rio Grande do Sul**. Com experiência prática no desenvolvimento de sites e aplicações web, meu foco é transformar ideias em interfaces intuitivas, eficientes e visualmente atraentes.
 
-Sou **comunicativo e curioso**, sempre buscando entender os desafios do projeto de forma abrangente e propondo **soluções criativas**, pensando sempre na **melhor experiência para o usuário**.
+Sou **comunicativo e curioso**, sempre buscando entender os desafios do projeto de forma abrangente. Utilizo meu domínio em **Vue.js, Nuxt.js e TypeScript** para propor **soluções criativas**, pensando sempre na **melhor experiência para o usuário (UX/UI)**.
 
-- 🕶️ Especialista em **desenvolvimento Front-End**
-- 🎨 Focado na **experiência do usuário (UX/UI)**
-- 🚀 Domínio em **Vue.js, Nuxt.js e TypeScript**
-- � Experiência com **WordPress e Bootstrap**
-- 💡 **Mente curiosa** e sempre em busca de **inovação**
-- 🤝 **Comunicativo** e colaborativo em equipe
-- ⚡ Compromisso com **produtividade** e **soluções criativas**
-
-Se você está procurando um desenvolvedor que possa agregar **habilidades técnicas**, uma **mente curiosa** e uma **forte comunicação**, juntamente com um compromisso com a **produtividade e inovação**, ficarei muito feliz em conversar sobre novas oportunidades!
+- 🎨 Foco na criação de interfaces intuitivas e na **experiência do usuário (UX/UI)**.
+- 🚀 Domínio em **Vue.js, Nuxt.js e TypeScript** para aplicações modernas.
+- 🌐 Experiência sólida com o ecossistema **WordPress e Bootstrap**.
+- 🤝 Habilidades de **comunicação** para colaboração efetiva em equipe.
 
 ---
 
-<div align="center">
-  <h2>🛠️ Tech Stack</h2>
-</div>
+## 🛠️ Tech Stack & Ferramentas
 
-### 🎨 Front-end
 <div align="center">
   <p>
     <strong>Linguagens & Core:</strong><br>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Ícones de HTML, CSS, JavaScript e TypeScript"/>
   </p>
   <p>
     <strong>Frameworks & Ecossistema:</strong><br>
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,vite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,vite&theme=dark" alt="Ícones de Vue, Nuxt, React e Vite"/>
   </p>
   <p>
     <strong>Estilização & UI:</strong><br>
-    <img src="https://skillicons.dev/icons?i=vuetify,bootstrap,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=vuetify,bootstrap,tailwind&theme=dark" alt="Ícones de Vuetify, Bootstrap e Tailwind CSS"/>
   </p>
-    <p>
-    <strong>Ambiente & CMS:</strong><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,bun,wordpress&theme=dark" />
-  </p>
-</div>
-
-### ⚙️ Back-end & Databases
-<div align="center">
   <p>
-    <strong>Linguagens:</strong><br>
-    <img src="https://skillicons.dev/icons?i=java,php&theme=dark" />
+    <strong>Ambiente, CMS & Back-end:</strong><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,bun,wordpress,php,java&theme=dark" alt="Ícones de Node.js, Bun, WordPress, PHP e Java"/>
   </p>
   <p>
     <strong>Bancos de Dados:</strong><br>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="Ícones de PostgreSQL e MySQL"/>
+  </p>
+  <p>
+    <strong>Desenvolvimento & Versionamento:</strong><br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode&theme=dark" alt="Ícones de Git, GitHub, GitLab, Linux e VSCode"/>
   </p>
 </div>
 
-### 🧰 Ferramentas & Outras
-<div align="center">
-  <p>
-    <strong>Desenvolvimento, Versionamento & Hardware:</strong><br>
-    <img src="https://skillicons.dev/icons?i=c,arduino,git,github,gitlab,linux,vscode&theme=dark" />
-  </p>
-  <p>
-    <strong>Design, Edição & Colaboração:</strong><br>
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,pr,ae,notion,discord&theme=dark" />
-  </p>
-</div>
+---
 
 ## 🌐 Entre em Contato
 
 <div align="center">
-  
-  <h3>💼 Procurando um desenvolvedor Front-End?</h3>
-  <p>Vamos conversar sobre como posso contribuir com seu projeto!</p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcamilomallmann@hotmail.com)
-
+  <h3>💼 Procurando um desenvolvedor Front-End para seu time ou projeto?</h3>
+  <p>Vamos conversar sobre como minhas habilidades podem agregar valor!</p>
+  <a href="https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/" target="_blank">
+    <img src="https://img.shields.io/badge/CONECTAR%20NO%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jcamilomallmann@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ENVIAR%20E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-## 💡 Por que trabalhar comigo?
-
-<div align="center">
-
-| 🎯 **Foco no Usuário** | 🚀 **Tecnologias Modernas** | 💬 **Comunicação Clara** |
-|:---:|:---:|:---:|
-| Experiência pensada para o usuário final | Vue.js, Nuxt.js, TypeScript | Colaboração efetiva em equipe |
-
-| ⁉️ **Mente Curiosa** | ⚡ **Produtividade** | 💡 **Soluções Criativas** |
-|:---:|:---:|:---:|
-| Sempre buscando melhorias | Entrega com qualidade | Pensamento fora da caixa |
-
-</div>
-
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=footer"/>
-</div>
-
-<div align="center">
-  
-  **🚀 Pronto para começarmos um projeto juntos?**
-  
-  [![LinkedIn](https://img.shields.io/badge/VAMOS%20CONVERSAR%20NO%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-camilo-mallmann-1982b8226/)
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjoaocamilomallmann&label=Visitantes&countColor=%23263759&style=flat)
-  
 </div>
