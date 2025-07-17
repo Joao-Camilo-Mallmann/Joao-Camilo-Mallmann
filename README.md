@@ -6,6 +6,14 @@
 ## Desenvolvedor Front-End | Vue.js | TypeScript | UX/UI
 
 <div align="center">
+  <h3>🎨 Confira meu Portfólio Completo</h3>
+  <a href="https://joao-camilo-mallmann.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌟%20VER%20PORTFÓLIO%20ONLINE-667EEA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=764ba2"/>
+  </a>
+  <p><em>Desenvolvedor Frontend & Editor de Vídeo</em></p>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Desenvolvedor+Front-End;Vue.js+%7C+Nuxt.js+%7C+TypeScript;Focado+na+Experiência+do+Usuário;📱+Vamos+nos+conectar+no+LinkedIn!" alt="Animação de texto com habilidades: Desenvolvedor Front-End, Vue.js, Nuxt.js, TypeScript"/>
 </div>
 
