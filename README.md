@@ -27,35 +27,17 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** based in **Rio Grande do Sul, Brazil**, with a deep specialization in **Frontend engineering** — and enough backend knowledge to own the entire delivery flow without depending on anyone else to unblock me.
+**Full Stack Developer** from Rio Grande do Sul, Brazil — Frontend specialist who owns the full delivery flow: from Figma to production, no blockers.
 
-My primary stack is **Vue.js 3 and React on the frontend**, with **Node.js, TypeScript, and PostgreSQL on the backend** — but what I actually sell is the ability to take a feature from a Figma file all the way to production: component architecture, API design, database schema, CI/CD pipeline, and performance tuning included.
+My stack: **Vue.js 3 + React** on the frontend, **Node.js + TypeScript + PostgreSQL** on the backend — with CI/CD, Docker and real-time systems in between.
 
-**On the Frontend**, I go deep:
-- Component systems built with **Composition API**, atomic design, and strict **TypeScript**
-- State management with **Pinia** (and Vuex on legacy projects)
-- **SSR and SSG** with Nuxt.js for SEO-critical applications
-- Real-time interfaces via **WebSockets + Web Workers** — offloading heavy processing from the UI thread
-- Performance tuned to **Core Web Vitals** standards — FCP under 1s, Lighthouse 95–100
-- Design-to-code fidelity using **Figma + MCP integration** for token extraction and pixel-perfect implementation
-
-**On the Backend and Infrastructure**, I handle:
-- **REST APIs** with Node.js/Express, properly typed end-to-end with TypeScript
-- **PostgreSQL and MySQL** schema design, query optimization and ORM usage (Prisma)
-- **Docker** for containerized, reproducible environments across dev and production
-- **GitLab CI/CD pipelines** — automated lint, unit tests (Vitest), E2E (Cypress), build and deploy
-- **Redis** for caching and session management in performance-critical systems
-- Legacy **PHP monolith modernization** — extracting modules without breaking production
-
-**On quality and tooling**:
-- TypeScript `strict mode` everywhere — frontend and backend
-- **AI-Driven Development**: Prompt Engineering for automated test generation, JSDoc/Swagger documentation, and requirements validation
-- Scrum practitioner — sprint planning, refinements, reviews and retrospectives with Product Owners
+- 🎨 **Frontend:** Composition API, Pinia, SSR/SSG (Nuxt.js), WebSockets, Tailwind CSS, Lighthouse 95–100
+- 🔧 **Backend:** REST APIs, Prisma ORM, Redis, Docker, GitLab CI/CD, PHP modernization
+- 🤖 **AI:** Prompt Engineering for test generation, documentation automation and requirements validation
 
 > I build things that work in production, not just in localhost.
 
 ---
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -103,13 +85,10 @@ My primary stack is **Vue.js 3 and React on the frontend**, with **Node.js, Type
 
 ## 🧩 Technical Highlights
 
-- **Frontend Architecture:** SPAs and SSR apps with Vue.js 3 (Composition API, Pinia) and React (Hooks, Context API) — component-driven, strictly typed, built to scale
-- **Design System & UI:** Tailwind CSS, Design Tokens, dark/light mode, WCAG accessibility — from Figma inspection to pixel-perfect implementation via MCP
-- **Real-time Systems:** WebSockets + Web Workers for high-throughput data streaming without blocking the UI thread
-- **Backend & APIs:** Node.js/Express REST APIs with TypeScript end-to-end, PostgreSQL schema design, Prisma ORM, Redis caching
-- **DevOps & CI/CD:** GitLab pipelines with automated lint, Vitest unit tests, Cypress E2E, Docker builds — deploy in minutes, not hours
-- **AI in the Workflow:** Prompt Engineering for test generation, JSDoc/Swagger automation and requirements validation — shipping faster without cutting corners
-- **Performance:** Core Web Vitals optimization, Lighthouse 95–100, SSG/SSR with Nuxt.js, lazy loading and code splitting
+- **Frontend:** Vue.js 3 (Composition API, Pinia), React, Nuxt.js SSR/SSG, WebSockets, Tailwind CSS, Lighthouse 95–100
+- **Backend & DevOps:** Node.js + TypeScript APIs, PostgreSQL, Redis, Docker, GitLab CI/CD (Vitest + Cypress)
+- **AI in the Workflow:** Prompt Engineering for test generation, JSDoc/Swagger automation and requirements validation
+- **Design to Code:** Figma + MCP integration — Design Tokens, pixel-perfect implementation, WCAG accessibility
 
 ---
 
