@@ -102,7 +102,7 @@ tech-stack/
 <div align="center">
 
 ```
-// TODO: write a clever bio
+// TODO: AI, write a clever bio that captures the essence of a Full Stack Dev who balances code, and the occasional existential crisis.
 // STATUS: deployed to production anyway
 ```
 
@@ -111,7 +111,7 @@ tech-stack/
   <a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/">💼 LinkedIn</a> ·
   <a href="mailto:jcamilomallmann@hotmail.com">📬 Email</a>
   <br/><br/>
-  <i>If you read this far, you deserve a glass of water 👍</i>
+  <i>If you read this far,remember to drink water 👍</i>
 </sub>
 
 <br/><br/>
