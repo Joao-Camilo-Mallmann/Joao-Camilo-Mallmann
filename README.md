@@ -3,22 +3,19 @@
 </div>
 
 <!-- neofetch -->
-<table>
-  <tr>
-    <td width="200" align="center">
-      <img src="https://avatars.githubusercontent.com/u/94570639" width="160" height="160" style="border-radius:50%" alt="João Camilo Mallmann"/>
-      <br/><br/>
-      <a href="https://joao-camilo-mallmann.github.io/Portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=4d91ea"/>
-      </a>
-      <a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-      </a>
-      <a href="mailto:jcamilomallmann@hotmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/>
-      </a>
-    </td>
-    <td>
+<div align="center">
+
+<a href="https://joao-camilo-mallmann.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=4d91ea"/>
+</a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:jcamilomallmann@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/>
+</a>
+
+<br/><br/>
 
 ```properties
 João Camilo Mallmann
@@ -29,9 +26,7 @@ João Camilo Mallmann
 💬  Ask me about: coding... or pretending to
 ```
 
-  </td>
-  </tr>
-</table>
+</div>
 
 ---
 
