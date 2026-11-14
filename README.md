@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://joao-camilo-mallmann.com/banner.svg" width="100%" alt="J.C // Full Stack Dev — Animated terminal banner"/>
+  <img src="https://joao-camilo-mallmann.com/banner.svg?v=2" width="100%" alt="João Camilo Mallmann — Full Stack Dev, blue sky banner"/>
 </div>
 
 <!-- neofetch -->
