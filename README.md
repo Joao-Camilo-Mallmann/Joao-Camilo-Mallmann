@@ -1,21 +1,15 @@
-<div align="center">
+<p align="center">
   <img src="https://joao-camilo-mallmann.com/banner.svg?v=2" width="100%" alt="João Camilo Mallmann — Full Stack Dev, blue sky banner"/>
-</div>
+</p>
+
+<p align="center">
+  <a href="https://joao-camilo-mallmann.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=4d91ea" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:jcamilomallmann@hotmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836" alt="Email"/></a>
+</p>
 
 <!-- neofetch -->
 <div align="center">
-
-<a href="https://joao-camilo-mallmann.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=firefox-browser&logoColor=4d91ea"/>
-</a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:jcamilomallmann@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=D14836"/>
-</a>
-
-<br/><br/>
 
 ```properties
 João Camilo Mallmann
@@ -97,20 +91,25 @@ tech-stack/
 <div align="center">
 
 ```
-// TODO: AI, write a clever bio that captures the essence of a Full Stack Dev who balances code, and the occasional existential crisis.
+// TODO: AI, write a clever bio that captures the essence of a Full Stack Dev
+// who balances code, and the occasional existential crisis.
 // STATUS: deployed to production anyway
 ```
 
-<sub>
-  <a href="https://joao-camilo-mallmann.github.io/Portfolio/">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/">💼 LinkedIn</a> ·
-  <a href="mailto:jcamilomallmann@hotmail.com">📬 Email</a>
-  <br/><br/>
-  <i>If you read this far,remember to drink water 👍</i>
-</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%"/>
-
 </div>
+
+<p align="center">
+  <sub>
+    <a href="https://joao-camilo-mallmann.github.io/Portfolio/">🌐 Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-camilo-mallmann-1982b8226/">💼 LinkedIn</a> ·
+    <a href="mailto:jcamilomallmann@hotmail.com">📬 Email</a>
+  </sub>
+</p>
+
+<p align="center">
+  <sub><i>If you read this far, remember to drink water 👍</i></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" alt=""/>
+</p>
